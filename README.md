@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **antonjan/antonjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +26,7 @@ I am a passionate Software and hardware developer. I am driven by a curiosity fo
 - ✍️ Code contibuter to github [Open source community]([https://www.freecodecamp.org/](https://github.com/antonjan)), to share valuable insights with the global coding community.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,docker,c,vim,aws,git,arduino,bash,bitbucket,flask,grafana,ai,linux,mysql,npm,opencv,perl,php,postman,pytorch,qt,raspberrypi,tensorflow,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
