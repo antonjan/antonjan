@@ -22,7 +22,7 @@ I am a passionate Software and hardware developer. I am driven by a curiosity fo
 
 - 🔭 I'm currently designing and manufacturing a 1U Cubesat and it is reaching compleashen.
 - 📝 I write in-depth, long-form articles on my website blog  [zr6aic.blogspot.com](https://zr6aic.blogspot.com).
-- 🌐 Proud member of the [amateur satellites and weak signal communication]([https://hackernoon.com/](https://amsatsa.org.za)), contributing to the tech community.
+- 🌐 Proud member of AMSATSA the [amateur satellites and weak signal communication]([https://hackernoon.com/](https://amsatsa.org.za)), contributing to the tech community.
 - ✍️ Code contibuter to github [Open source community]([https://www.freecodecamp.org/](https://github.com/antonjan)), to share valuable insights with the global coding community.
 
 ## Tech Stack
