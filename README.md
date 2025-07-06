@@ -27,7 +27,7 @@ I am a passionate Software and hardware developer. I am driven by a curiosity fo
 
 ## Tech Stack
 [![My Skills](https://github.com/antonjan/antonjan/blob/main/skill-icons.png?raw=true)
-![ollama](https://github.com/antonjan/antonjan/blob/main/ollama_dark_icon.png)
+
 
 ## 🌱 Currently Exploring
 
@@ -41,8 +41,8 @@ I am a passionate Software and hardware developer. I am driven by a curiosity fo
  ## 🏆 Achievements
 
 - 🌟 Mulipal technology awards.
--  2020 SAATI Technology awarded. 
--  2021 ICOM AFRICUBE Excellence.
+-  2020 SAATI Technology award. 
+-  2021 ICOM AFRICUBE Excellence award.
 
 
 ## 📬 Get in Touch
