@@ -27,7 +27,7 @@ I am a passionate Software and hardware developer. I am driven by a curiosity fo
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,docker,c,vim,aws,git,arduino,bash,bitbucket,flask,grafana,ai,linux,mysql,npm,opencv,perl,php,postman,pytorch,qt,raspberrypi,tensorflow,ubuntu)](https://skillicons.dev)
-![ollama](![image]([https://github.com/antonjan/antonjan/blob/main/ollama_dark_icon.png](https://raw.githubusercontent.com/antonjan/antonjan/refs/heads/main/ollama_dark_icon.png))
+![ollama]([https://github.com/antonjan/antonjan/blob/main/ollama_dark_icon.png])
 )
 ## 🌱 Currently Exploring
 
