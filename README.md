@@ -26,8 +26,7 @@ I am a passionate Software and hardware developer. I am driven by a curiosity fo
 - ✍️ Code contibuter to github [Open source community]([https://www.freecodecamp.org/](https://github.com/antonjan)), to share valuable insights with the global coding community.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,docker,c,vim,aws,git,arduino,bash,bitbucket,flask,grafana,ai,linux,mysql,npm,opencv,perl,php,postman,pytorch,qt,raspberrypi,tensorflow,ubuntu)](https://skillicons.dev)
-[![My Skills](https://github.com/antonjan/antonjan/blob/main/skill-cons.png?raw=true)
+[![My Skills](https://github.com/antonjan/antonjan/blob/main/skill-icons.png?raw=true)
 ![ollama](https://github.com/antonjan/antonjan/blob/main/ollama_dark_icon.png)
 
 ## 🌱 Currently Exploring
